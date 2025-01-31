@@ -31,7 +31,7 @@ D:/real-vs-fake/
 ## 🔧 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/deepfake-detection.git
+  
    cd deepfake-detection
    ```
 2. Create and activate a virtual environment:
@@ -81,7 +81,6 @@ model.evaluate(test_flow)
 ```
 
 ## 📊 Results
-- Achieved **XX% accuracy** on test data.
 - Performance metrics visualized using `matplotlib`.
 
 ## 📜 License
