@@ -90,7 +90,7 @@ This project is open-source and available under the **MIT License**.
 Feel free to **fork** this repository, create a new branch, and submit a **pull request**!
 
 ## 📬 Contact
-For questions or suggestions, reach out via [your.email@example.com](mailto:your.email@example.com) or open an issue on GitHub.
+For questions or suggestions, reach out via [your.email@example.com](mailto:ajjohri80@gmail.com) or open an issue on GitHub.
 
 ---
 🚀 **Happy Coding!**
